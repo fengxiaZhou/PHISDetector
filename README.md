@@ -42,6 +42,9 @@ The development of PHISDector was supported as a collaboration of School of Life
 
 - step4:When you organize the whole files well,the corresponding directory structure are displayed as shown below. 
 ![](https://github.com/gancao/PHISDector/tree/master/document/images/standalone_directory_structure.png)
+```
+test
+```
 
 
 ## Usage
